@@ -99,6 +99,7 @@ void a5()
 	a123 = 555;
 	int c123;
 	c123 = a123 + 555;
+	int c12;
 }
 void main()
 {
