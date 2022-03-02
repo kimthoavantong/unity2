@@ -2,6 +2,7 @@
 using namespace std;
 #define KDL int
 #define MAXLEN 100
+int po;
 struct Node
 {
 	int a;
@@ -91,6 +92,10 @@ void ChuyenCoSo(Stack &s, int cosocandoi, int hethapphan)
 		Push(s, p); // thêm node p vào stack
 		hethapphan /= cosocandoi; //tiếp tục chia đến hết
 	}
+}
+void a5()
+{
+	int a123;
 }
 void main()
 {
