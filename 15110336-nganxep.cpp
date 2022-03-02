@@ -97,7 +97,7 @@ void a5()
 {
 	int a11 = 12;
 	int a22 = a11 + 10;
-	int a23 = a11 + a22;
+	int a23 = a11 - a22;
 }
 
 
