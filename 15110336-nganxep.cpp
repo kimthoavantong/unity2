@@ -98,6 +98,8 @@ void a5()
 	int a11 = 12;
 	int a12 = 111;
 	int a123 = 2 - 1;
+	int a1222 = 1 + 2;
+	int a33 = 1;
 }
 
 
