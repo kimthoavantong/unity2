@@ -97,6 +97,8 @@ void a5()
 {
 	int a123;
 	a123 = 555;
+	int c123;
+	c123 = a123 + 555;
 }
 void main()
 {
