@@ -95,7 +95,8 @@ void ChuyenCoSo(Stack &s, int cosocandoi, int hethapphan)
 }
 void a5()
 {
-	int num1 = 1;
+	int num1 = 5;
+	int num2 = 2;
 }
 
 
