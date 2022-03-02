@@ -96,12 +96,6 @@ void ChuyenCoSo(Stack &s, int cosocandoi, int hethapphan)
 void a5()
 {
 	int a11 = 12;
-	int a22 = a11 + 10;
-<<<<<<< HEAD
-	int a23 = a11 - a22;
-=======
-	int c11 = a11 + a22;
->>>>>>> tong
 }
 
 
