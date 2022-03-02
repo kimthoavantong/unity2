@@ -9,6 +9,10 @@ void a5()
 	int num2 = 2;
 }
 
+void minus()
+{
+	
+}
 void plus()
 {
 	
