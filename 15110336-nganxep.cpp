@@ -95,23 +95,11 @@ void ChuyenCoSo(Stack &s, int cosocandoi, int hethapphan)
 }
 void a5()
 {
-	int a123;
-	a123 = 555;
-<<<<<<< HEAD
-	int c123;
-<<<<<<< HEAD
-<<<<<<< HEAD
-	c123 = a123 - 555;
-=======
-	c123 = a123 - 555 -333;
->>>>>>> phu-hieu
-	int c12;
-=======
-	c123 = a123 + 555 + 666;
->>>>>>> phu
-=======
->>>>>>> parent of 188f808 (a1)
+	int a11 = 12;
+	int a22 = a11 + 10;
 }
+
+
 void main()
 {
 	Stack s,s1;
